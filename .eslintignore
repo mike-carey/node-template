@@ -1,0 +1,19 @@
+###
+# Defines files for the linter to ignore
+##
+
+.git*
+
+.bak/
+.tmp/
+.build/
+
+node_modules/
+bower_components/
+
+/build/
+/dist/
+/storage/
+/tests/
+
+# end .eslintignore
